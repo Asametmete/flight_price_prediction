@@ -22,11 +22,17 @@ Future Work:
 Improve model performance by experimenting with advanced architectures or feature engineering.
 Expand the dataset with more features to capture complex relationships.
 Deploy the model in a user-friendly interface for real-time predictions.
+
 Languages & Libraries:
 
 Python
+
 TensorFlow / Keras
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
